@@ -61,5 +61,3 @@ PERATURAN LISENSI:
 Bagikan — salin dan sebarkan materi dalam bentuk atau format apa pun untuk tujuan apa pun, bahkan secara komersial. 
 Ubah — remix, transformasi, dan kembangkan materi untuk tujuan apa pun, bahkan secara komersial. 
 ---
-
-"terimakasih sunshine"
